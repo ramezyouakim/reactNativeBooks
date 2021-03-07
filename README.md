@@ -21,6 +21,6 @@ create `local.properties` file inside the `android` root folder then add<br />
     try `cd android`<br />
     then run  `./gradlew clean`<br />
     
-   Please let me know if you faced any issue runing this project 
+   Please let me know if you faced any issue running this project
     
   
